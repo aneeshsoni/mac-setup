@@ -89,7 +89,7 @@
       "Prompt Before Closing 2": false,
       "BM Growl": true,
       "Command": "",
-      "Description": "Default",
+      "Description": "Plum Neon",
       "Mouse Reporting": true,
       "Send Terminal Generated Alerts": true,
       "Screen": -1,
@@ -112,7 +112,7 @@
       "Non Ascii Font": "Monaco 12",
       "Vertical Spacing": 1,
       "Use Bold Font": true,
-      "Option Key Sends": 0,
+      "Option Key Sends": 2,
       "Selected Text Color": {
         "Red Component": 0,
         "Color Space": "P3",
@@ -135,7 +135,48 @@
       },
       "Use Italic Font": true,
       "Unlimited Scrollback": false,
-      "Keyboard Map": {},
+      "Keyboard Map": {
+        "0xf702-0x280000": {
+          "Text": "b",
+          "Action": 10
+        },
+        "0xf702-0x300000": {
+          "Text": "0x1",
+          "Action": 11
+        },
+        "0xf703-0x280000": {
+          "Text": "f",
+          "Action": 10
+        },
+        "0xf728-0x80000": {
+          "Text": "d",
+          "Action": 10
+        },
+        "0x7f-0x100000": {
+          "Text": "0x15",
+          "Action": 11
+        },
+        "0xf703-0x300000": {
+          "Text": "0x5",
+          "Action": 11
+        },
+        "0xf728-0x0": {
+          "Text": "0x4",
+          "Action": 11
+        },
+        "0xf702-0x240000": {
+          "Text": "b",
+          "Action": 10
+        },
+        "0xf703-0x240000": {
+          "Text": "f",
+          "Action": 10
+        },
+        "0x7f-0x80000": {
+          "Text": "0x1b 0x7f",
+          "Action": 11
+        }
+      },
       "Window Type": 0,
       "Background Image Location": "",
       "Blur": false,
@@ -159,7 +200,7 @@
         "Alpha Component": 1,
         "Green Component": 1
       },
-      "Name": "Default",
+      "Name": "Mac Setup - Plum Neon",
       "Cursor Text Color": {
         "Red Component": 0.6932336688041687,
         "Color Space": "P3",
@@ -174,7 +215,7 @@
         "Alpha Component": 1,
         "Green Component": 0.9860088229179382
       },
-      "Shortcut": "A",
+      "Shortcut": "",
       "Cursor Color": {
         "Red Component": 0.8310695290565491,
         "Color Space": "P3",
@@ -223,7 +264,7 @@
         "Alpha Component": 1,
         "Green Component": 0.4666666666666667
       },
-      "Right Option Key Sends": 0
+      "Right Option Key Sends": 2
     },
     {
       "Enable Triggers in Interactive Apps": false,
@@ -307,7 +348,7 @@
       "Prompt Before Closing 2": false,
       "BM Growl": true,
       "Command": "",
-      "Description": "Default",
+      "Description": "Plum Pastel",
       "Mouse Reporting": true,
       "Animate Movement": true,
       "Screen": -1,
@@ -330,7 +371,7 @@
       "Non Ascii Font": "Monaco 12",
       "Vertical Spacing": 1,
       "Use Bold Font": true,
-      "Option Key Sends": 0,
+      "Option Key Sends": 2,
       "Selected Text Color": {
         "Red Component": 0,
         "Color Space": "P3",
@@ -353,7 +394,48 @@
       },
       "Use Italic Font": true,
       "Unlimited Scrollback": false,
-      "Keyboard Map": {},
+      "Keyboard Map": {
+        "0xf702-0x280000": {
+          "Text": "b",
+          "Action": 10
+        },
+        "0xf702-0x300000": {
+          "Text": "0x1",
+          "Action": 11
+        },
+        "0xf703-0x280000": {
+          "Text": "f",
+          "Action": 10
+        },
+        "0xf728-0x80000": {
+          "Text": "d",
+          "Action": 10
+        },
+        "0x7f-0x100000": {
+          "Text": "0x15",
+          "Action": 11
+        },
+        "0xf703-0x300000": {
+          "Text": "0x5",
+          "Action": 11
+        },
+        "0xf728-0x0": {
+          "Text": "0x4",
+          "Action": 11
+        },
+        "0xf702-0x240000": {
+          "Text": "b",
+          "Action": 10
+        },
+        "0xf703-0x240000": {
+          "Text": "f",
+          "Action": 10
+        },
+        "0x7f-0x80000": {
+          "Text": "0x1b 0x7f",
+          "Action": 11
+        }
+      },
       "Window Type": 0,
       "Background Image Location": "",
       "Blur": false,
@@ -378,7 +460,7 @@
         "Alpha Component": 1,
         "Green Component": 0.9725490196078431
       },
-      "Name": "SSH Profile",
+      "Name": "Mac Setup - Plum Pastel",
       "Cursor Text Color": {
         "Red Component": 0.6784313725490196,
         "Blue Component": 0.6823529411764706,
@@ -419,7 +501,7 @@
         "Alpha Component": 1,
         "Green Component": 1
       },
-      "Right Option Key Sends": 0,
+      "Right Option Key Sends": 2,
       "Use Non-ASCII Font": false,
       "Ansi 7 Color": {
         "Red Component": 0.803921568627451,
@@ -528,7 +610,7 @@
       "Prompt Before Closing 2": false,
       "BM Growl": true,
       "Command": "",
-      "Description": "Default",
+      "Description": "Charcoal Classic",
       "Smart Cursor Color": false,
       "Mouse Reporting": true,
       "Screen": -1,
@@ -598,6 +680,18 @@
         },
         "0xf728-0x0": {
           "Text": "0x4",
+          "Action": 11
+        },
+        "0xf702-0x240000": {
+          "Text": "b",
+          "Action": 10
+        },
+        "0xf703-0x240000": {
+          "Text": "f",
+          "Action": 10
+        },
+        "0x7f-0x80000": {
+          "Text": "0x1b 0x7f",
           "Action": 11
         }
       },
@@ -681,7 +775,7 @@
         "Blue Component": "0.8862745",
         "Red Component": "0.2039216"
       },
-      "Name": "OG",
+      "Name": "Mac Setup - Charcoal Classic",
       "Cursor Text Color": {
         "Green Component": "0",
         "Blue Component": "0",
@@ -715,7 +809,7 @@
         "Alpha Component": 1,
         "Green Component": 0.836395263671875
       },
-      "Right Option Key Sends": 0,
+      "Right Option Key Sends": 2,
       "Custom Directory": "No",
       "Ansi 7 Color": {
         "Green Component": "0.8431373",
@@ -743,7 +837,8 @@
         "Green Component": "0.3137255",
         "Blue Component": "0.4823529",
         "Red Component": "0.4588235"
-      }
+      },
+      "Shortcut": ""
     },
     {
       "Ansi 5 Color": {
@@ -840,7 +935,7 @@
       "Prompt Before Closing 2": false,
       "BM Growl": true,
       "Command": "",
-      "Description": "Default",
+      "Description": "Plum Neon Solid",
       "Mouse Reporting": true,
       "Send Terminal Generated Alerts": true,
       "Screen": -1,
@@ -863,7 +958,7 @@
       "Non Ascii Font": "Monaco 12",
       "Vertical Spacing": 1,
       "Use Bold Font": true,
-      "Option Key Sends": 0,
+      "Option Key Sends": 2,
       "Selected Text Color": {
         "Red Component": 0,
         "Color Space": "P3",
@@ -886,7 +981,48 @@
       },
       "Use Italic Font": true,
       "Unlimited Scrollback": false,
-      "Keyboard Map": {},
+      "Keyboard Map": {
+        "0xf702-0x280000": {
+          "Text": "b",
+          "Action": 10
+        },
+        "0xf702-0x300000": {
+          "Text": "0x1",
+          "Action": 11
+        },
+        "0xf703-0x280000": {
+          "Text": "f",
+          "Action": 10
+        },
+        "0xf728-0x80000": {
+          "Text": "d",
+          "Action": 10
+        },
+        "0x7f-0x100000": {
+          "Text": "0x15",
+          "Action": 11
+        },
+        "0xf703-0x300000": {
+          "Text": "0x5",
+          "Action": 11
+        },
+        "0xf728-0x0": {
+          "Text": "0x4",
+          "Action": 11
+        },
+        "0xf702-0x240000": {
+          "Text": "b",
+          "Action": 10
+        },
+        "0xf703-0x240000": {
+          "Text": "f",
+          "Action": 10
+        },
+        "0x7f-0x80000": {
+          "Text": "0x1b 0x7f",
+          "Action": 11
+        }
+      },
       "Window Type": 0,
       "Background Image Location": "",
       "Blur": false,
@@ -910,7 +1046,7 @@
         "Alpha Component": 1,
         "Green Component": 1
       },
-      "Name": "tmux",
+      "Name": "Mac Setup - Plum Neon Solid",
       "Cursor Text Color": {
         "Red Component": 0.6932336688041687,
         "Color Space": "P3",
@@ -925,7 +1061,7 @@
         "Alpha Component": 1,
         "Green Component": 0.9860088229179382
       },
-      "Shortcut": "A",
+      "Shortcut": "",
       "Cursor Color": {
         "Red Component": 0.8310695290565491,
         "Color Space": "P3",
@@ -946,9 +1082,9 @@
         "Green Component": 0.403921568627451
       },
       "Horizontal Spacing": 1,
-      "Transparency": 0.05,
+      "Transparency": 0,
       "Guid": "5e31496a-dc48-43bb-960c-6b85dae11561",
-      "Right Option Key Sends": 0,
+      "Right Option Key Sends": 2,
       "Ansi 6 Color": {
         "Red Component": 0.6352941176470588,
         "Blue Component": 1,
